@@ -1,4 +1,10 @@
 /*
+ * Name:Allen Chien
+ * Email:achien4@wisc.edu
+ * CS account user name:achien
+ */
+
+/*
  * Test the use of the Color method
  */
 import java.util.*;

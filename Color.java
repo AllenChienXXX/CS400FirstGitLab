@@ -1,4 +1,10 @@
 /*
+ * Name:Allen Chien
+ * Email:achien4@wisc.edu
+ * CS acount user name:achien
+ */
+
+/*
  *	Color class
  */
 public class Color{
